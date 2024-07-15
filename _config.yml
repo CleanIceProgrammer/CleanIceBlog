@@ -8,7 +8,7 @@ subtitle: 'Welcome to CleanIce Blog! '
 description: '在这里，见证计算机学的高速发展！'
 keywords: CleanIce, LHTS
 author: CleanIce凌雪蓝冰
-language: zh-cn
+language: en
 timezone: ''
 
 # URL
@@ -49,7 +49,7 @@ highlight:
   auto_detect: false
   tab_replace: '    '
   wrap: true
-  hljs: true
+  hljs: false
 prismjs:
   preprocess: true
   line_number: true
